@@ -58,7 +58,7 @@
                     case 3: $prize = "scissor";
                             break;
                 }
-                echo "<img src= './img/$prize.jpg' id='userpic' alt='$prize' title='".ucfirst($prize)."' height='170' > <br/></p>";
+                echo "<img src= './img/$prize.jpg' id='userpic' alt='$prize' title='".ucfirst($prize)."' height='150' > <br/></p>";
             }
             
         function displayPoints($randomValue1, $randomValue2) {
