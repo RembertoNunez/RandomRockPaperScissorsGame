@@ -1,0 +1,98 @@
+header {
+    text-align: center;
+}
+
+body {
+    background-image: url("bg.jpg");
+    background-color: #cccccc;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 16px
+}
+
+footer {
+    font-size: .7em;
+    color: white;
+    clear: left;
+}
+
+h1 {
+	font-family: 'Dancing Script', Georgia, Times, serif;
+	font-size: 59px;
+	line-height: .001px;
+}
+ 
+p {
+	font-family: 'Lekton', Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 25px;
+}
+
+section {
+    margin: auto;
+}
+
+footer {
+	text-align: center;
+}
+
+a {
+	margin: auto;
+}
+
+#left {
+	width:25%;
+	float: left;
+}
+
+#right {
+	width: 55%;
+    float: right;
+    margin-left: 100px;
+}
+
+h2 {
+	font-family: Courier New; 
+}
+
+#every {
+	margin: 10px;
+	margin-bottom: -5px;
+}
+
+.button {
+    background-color: #f44336;
+    border-radius: 12px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.submit {
+    background-color: #4CAF50;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#hand {
+	margin: auto;
+	padding-right: 10px;
+}
+
+#userpic {
+	padding-left: 50px;
+	padding-right: 50px;
+}
